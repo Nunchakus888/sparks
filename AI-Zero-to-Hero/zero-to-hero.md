@@ -284,7 +284,7 @@ Cowork：
 **项目：个人知识库管理**
 ```
 功能：
-1. 文档整理：自动��类和标签
+1. 文档整理：自动分类和标签
 2. 全文搜索：快速找到相关内容
 3. 摘要生成：为长文档生成摘要
 4. 定期报告：每周生成知识库统计
@@ -360,7 +360,7 @@ claude-code
 
 ### 开源项目
 - [Open-Claude-Cowork GitHub](https://github.com/OpenCoworkAI/open-cowork)
-- [Agent Cowork（另一个开源实现）](https://github.com/DevAgentForge/Open-Claude-Cowork)
+- [Agent Cowork（另一个开源实现）](https://github.com/DevAgentForge/Open-Claude-Cowork)（历史仓库）
 
 ### 社区
 - [Claude Discord](https://discord.gg/anthropic)

@@ -39,9 +39,9 @@
 
 ## 🚀 快速开始（5 分钟）
 
-### Step 1: 安装 Open-Claude-Cowork
+### Step 1: 安装 Open-Cowork
 
-1. 访问：https://github.com/DevAgentForge/Open-Claude-Cowork
+1. 访问：https://github.com/OpenCoworkAI/open-cowork
 2. 下载 macOS 安装包
 3. 安装并启动应用
 

@@ -339,7 +339,7 @@ sparks/
 - 传统方式 = 你自己做饭（写代码）
 - Open-Cowork = 你告诉厨师（AI）做什么菜，厨师帮你做
 
-**官网**：https://github.com/DevAgentForge/Open-Claude-Cowork
+**官网**：https://github.com/OpenCoworkAI/open-cowork
 
 ---
 

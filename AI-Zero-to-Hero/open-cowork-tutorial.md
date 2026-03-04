@@ -14,6 +14,10 @@
 
 ## 什么是 Open-Claude-Cowork
 
+Open-Claude-Cowork（简称 Open-Cowork）是一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
+
+**官方文档**：https://github.com/OpenCoworkAI/open-cowork/blob/main/README_zh.md
+
 ### 核心特点
 Open-Claude-Cowork 是 Claude Cowork 的开源替代品，提供：
 

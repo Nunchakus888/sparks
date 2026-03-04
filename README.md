@@ -43,6 +43,9 @@
 
 **阅读**：[Open-Claude-Cowork 完整教程](AI-Zero-to-Hero/open-cowork-tutorial.md)
 
+> **什么是 Open-Cowork？** 一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
+> 详见：[Open-Cowork 官方文档](https://github.com/OpenCoworkAI/open-cowork/blob/main/README_zh.md)
+
 **做什么**：
 - [ ] 安装 Open-Claude-Cowork
 - [ ] 注册 AI 模型账号（推荐智谱 GLM），获取 API Key

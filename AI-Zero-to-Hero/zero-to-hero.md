@@ -84,7 +84,7 @@
 
 **安装步骤：**
 ```bash
-# 1. 访问 https://github.com/OpenCoworkAI/open-cowork
+# 1. 访问 https://github.com/different-ai/openwork
 # 2. 下载 macOS 安装包
 # 3. 配置 API Key（可选择国内模型如 GLM、Kimi）
 # 4. 启动应用
@@ -106,7 +106,7 @@
 
 **选择你的方案：**
 - [ ] 方案 A：Claude Cowork（官方，$20/月）
-- [ ] 方案 B：Open-Claude-Cowork（开源，免费）
+- [ ] 方案 B：OpenWork（开源，免费）
 
 **首次启动：**
 1. 创建工作文件夹（如 `~/AI-Workspace`）
@@ -359,7 +359,7 @@ claude-code
 - [Anthropic API 文档](https://docs.anthropic.com)
 
 ### 开源项目
-- [Open-Claude-Cowork GitHub](https://github.com/OpenCoworkAI/open-cowork)
+- [OpenWork GitHub](https://github.com/different-ai/openwork)
 - [Agent Cowork（另一个开源实现）](https://github.com/DevAgentForge/Open-Claude-Cowork)（历史仓库）
 
 ### 社区

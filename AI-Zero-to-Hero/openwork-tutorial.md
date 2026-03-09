@@ -1,7 +1,7 @@
-# Open-Claude-Cowork 完整教程
+# OpenWork 完整教程
 
 ## 目录
-1. [什么是 Open-Claude-Cowork](#什么是-open-claude-cowork)
+1. [什么是 OpenWork](#什么是-openwork)
 2. [安装前准备](#安装前准备)
 3. [安装步骤](#安装步骤)
 4. [配置 API](#配置-api)
@@ -12,14 +12,14 @@
 
 ---
 
-## 什么是 Open-Claude-Cowork
+## 什么是 OpenWork
 
-Open-Claude-Cowork（简称 Open-Cowork）是一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
+OpenWork 是一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
 
-**官方文档**：https://github.com/OpenCoworkAI/open-cowork/blob/main/README_zh.md
+**官方文档**：https://github.com/different-ai/openwork
 
 ### 核心特点
-Open-Claude-Cowork 是 Claude Cowork 的开源替代品，提供：
+OpenWork 是 Claude Cowork 的开源替代品，提供：
 
 - ✅ **图形界面**：无需命令行知识，点击操作
 - ✅ **完全免费**：开源软件，无订阅费用
@@ -30,7 +30,7 @@ Open-Claude-Cowork 是 Claude Cowork 的开源替代品，提供：
 
 ### 与官方版本对比
 
-| 特性 | Open-Claude-Cowork | Claude Cowork 官方 |
+| 特性 | OpenWork | Claude Cowork 官方 |
 |------|-------------------|-------------------|
 | 价格 | 免费 + API 费用 | $20-100/月 |
 | 模型选择 | 多种（含国内模型） | 仅 Claude |
@@ -89,12 +89,12 @@ Open-Claude-Cowork 是 Claude Cowork 的开源替代品，提供：
 #### Step 1: 下载
 访问 GitHub Release 页面：
 ```
-https://github.com/OpenCoworkAI/open-cowork/releases
+https://github.com/different-ai/openwork/releases
 ```
 
 下载最新版本的 macOS 安装包：
-- Apple Silicon (M1/M2/M3): `Open-Cowork-macOS-arm64.dmg`
-- Intel 芯片: `Open-Cowork-macOS-x64.dmg`
+- Apple Silicon (M1/M2/M3): `OpenWork-macOS-arm64.dmg`
+- Intel 芯片: `OpenWork-macOS-x64.dmg`
 
 #### Step 2: 安装
 1. 双击下载的 `.dmg` 文件
@@ -117,7 +117,7 @@ https://github.com/OpenCoworkAI/open-cowork/releases
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/OpenCoworkAI/open-cowork.git
+git clone https://github.com/different-ai/openwork.git
 cd open-cowork
 
 # 2. 安装依赖
@@ -706,7 +706,7 @@ cp -r ~/AI-Workspace ~/AI-Workspace-backup-$(date +%Y%m%d)
    - 掌握更强大的编程能力
 
 4. **加入社区**
-   - GitHub Discussions: https://github.com/OpenCoworkAI/open-cowork/discussions
+   - GitHub Discussions: https://github.com/different-ai/openwork/discussions
    - Discord: [链接待补充]
 
 ---
@@ -714,7 +714,7 @@ cp -r ~/AI-Workspace ~/AI-Workspace-backup-$(date +%Y%m%d)
 ## 参考资源
 
 ### 官方文档
-- [Open-Claude-Cowork GitHub](https://github.com/OpenCoworkAI/open-cowork)
+- [OpenWork GitHub](https://github.com/different-ai/openwork)
 - [智谱 GLM API 文档](https://open.bigmodel.cn/dev/api)
 - [Kimi API 文档](https://platform.moonshot.cn/docs)
 - [DeepSeek API 文档](https://platform.deepseek.com/api-docs)

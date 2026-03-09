@@ -41,13 +41,13 @@
 
 **目标**：完成工具安装和 API 配置，跑通第一个任务
 
-**阅读**：[Open-Claude-Cowork 完整教程](AI-Zero-to-Hero/open-cowork-tutorial.md)
+**阅读**：[OpenWork 完整教程](AI-Zero-to-Hero/openwork-tutorial.md)
 
-> **什么是 Open-Cowork？** 一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
-> 详见：[Open-Cowork 官方文档](https://github.com/OpenCoworkAI/open-cowork/blob/main/README_zh.md)
+> **什么是 OpenWork？** 一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
+> 详见：[OpenWork 官方文档](https://github.com/different-ai/openwork)
 
 **做什么**：
-- [ ] 安装 Open-Claude-Cowork
+- [ ] 安装 OpenWork
 - [ ] 注册 AI 模型账号（推荐智谱 GLM），获取 API Key
 - [ ] 配置并测试连接
 - [ ] 完成教程中的"第一个任务"（创建待办清单）
@@ -168,7 +168,7 @@
 sparks/
 ├── AI-Zero-to-Hero/           # AI 零基础到精通系列
 │   ├── zero-to-hero.md               # [阶段1] 学习路径规划
-│   ├── open-cowork-tutorial.md        # [阶段2] 工具安装教程
+│   ├── openwork-tutorial.md          # [阶段2] 工具安装教程
 │   ├── english-learning-guide.md      # [阶段3] 英语绘本学习助手
 │   └── role-practice-guide.md         # [阶段5] 运营/产品经理实战案例
 ├── archive/                   # 归档文档
@@ -228,7 +228,7 @@ sparks/
 | 我完全不懂编程，能学会吗？ | 可以！零代码，只需复制粘贴任务描述 |
 | 需要科学上网吗？ | 不需要，使用国内 AI 模型即可 |
 | 成本高吗？ | 智谱 GLM 新用户送 ¥100，够用 1 年+ |
-| 数据安全吗？ | 安全，Open-Cowork 本地运行，数据不上传 |
+| 数据安全吗？ | 安全，OpenWork 本地运行，数据不上传 |
 | 需要多少时间学会？ | 阶段 1-3 约 1-2 天，阶段 4 约 1 周 |
 
 ---
@@ -258,8 +258,8 @@ sparks/
 **是什么**：连接你的工具和 AI 大脑的"电话线"。
 
 **举例**：
-- 你在 Open-Cowork 中输入任务
-- Open-Cowork 通过 API 把任务发给智谱 GLM
+- 你在 OpenWork 中输入任务
+- OpenWork 通过 API 把任务发给智谱 GLM
 - 智谱 GLM 处理完，通过 API 把结果返回
 
 **类比**：
@@ -282,7 +282,7 @@ sparks/
 **举例**：
 - 注册智谱 GLM 后，会给你一串字符：`abc123.xyz789`
 - 这就是你的 API Key
-- 配置到 Open-Cowork 后，它就能代表你调用 AI
+- 配置到 OpenWork 后，它就能代表你调用 AI
 
 **类比**：
 - API Key = 银行卡密码
@@ -326,7 +326,7 @@ sparks/
 
 ### 工具相关
 
-#### Open-Claude-Cowork
+#### OpenWork
 **是什么**：一个图形界面软件，让你用自然语言指挥 AI 工作。
 
 **能做什么**：
@@ -337,9 +337,9 @@ sparks/
 
 **类比**：
 - 传统方式 = 你自己做饭（写代码）
-- Open-Cowork = 你告诉厨师（AI）做什么菜，厨师帮你做
+- OpenWork = 你告诉厨师（AI）做什么菜，厨师帮你做
 
-**官网**：https://github.com/OpenCoworkAI/open-cowork
+**官网**：https://github.com/different-ai/openwork
 
 ---
 

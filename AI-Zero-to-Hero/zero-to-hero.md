@@ -84,8 +84,8 @@
 
 **安装步骤：**
 ```bash
-# 1. 访问 https://github.com/different-ai/openwork/releases
-# 2. 下载最新版 .dmg 安装包
+# 1. 访问 https://openwork.software/download
+# 2. 下载最新版安装包
 # 3. 安装并启动应用
 # 4. 配置 API Key（可选择国内模型如 GLM、Kimi、DeepSeek）
 ```

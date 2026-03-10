@@ -41,8 +41,8 @@
 
 ### Step 1: 安装 OpenWork
 
-1. 访问：https://github.com/different-ai/openwork/releases
-2. 下载最新版 `.dmg` 安装包
+1. 访问：https://openwork.software/download
+2. 下载最新版安装包
 3. 安装并启动应用
 
 ### Step 2: 配置 AI 模型

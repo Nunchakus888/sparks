@@ -56,8 +56,8 @@ OpenWork 是 Claude Cowork / Codex 的开源替代品（桌面应用），帮助
 
 最简单的方式，适合所有用户：
 
-1. 访问 [GitHub Releases](https://github.com/different-ai/openwork/releases)
-2. 下载最新版本的 `.dmg` 文件（macOS）
+1. 访问 [OpenWork 下载页](https://openwork.software/download)
+2. 下载最新版本安装包（macOS / Windows / Linux）
 3. 双击安装，将应用拖入 `Applications` 文件夹
 4. 首次打开：右键点击应用 → 选择"打开"
 

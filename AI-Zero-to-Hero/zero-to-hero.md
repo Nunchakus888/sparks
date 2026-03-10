@@ -63,7 +63,7 @@
 
 ---
 
-### 方案 B：Open-Claude-Cowork（开源，替代）
+### 方案 B：OpenWork（开源，替代）
 
 **优势：**
 - ✅ **完全免费**：开源项目，无订阅费用
@@ -336,7 +336,7 @@ claude-code
 - **Claude Max**: $100/月（更多使用量）
 - **总计**: $20-100/月
 
-### 方案 B：Open-Claude-Cowork（开源）
+### 方案 B：OpenWork（开源）
 - **软件**: 免费
 - **API 费用**（按使用量）：
   - 智谱 GLM-4: ~$5-10/月
@@ -360,7 +360,7 @@ claude-code
 
 ### 开源项目
 - [OpenWork GitHub](https://github.com/different-ai/openwork)
-- [Agent Cowork（另一个开源实现）](https://github.com/DevAgentForge/Open-Claude-Cowork)（历史仓库）
+- [Agent Cowork（历史仓库）](https://github.com/DevAgentForge/Open-Claude-Cowork)
 
 ### 社区
 - [Claude Discord](https://discord.gg/anthropic)
@@ -411,7 +411,7 @@ claude-code
 请选择你的学习路径：
 
 1. **官方路径**：Claude Cowork（$20/月，最佳体验）
-2. **开源路径**：Open-Claude-Cowork（免费，需配置 API）
+2. **开源路径**：OpenWork（免费，需配置 API）
 3. **混合路径**：先用开源版本试用，满意后升级官方版
 
 选择后，我会为你生成：
@@ -427,7 +427,7 @@ claude-code
 | 工具 | 类型 | 界面 | 适合人群 | 学习曲线 | 成本 |
 |------|------|------|----------|----------|------|
 | **Claude Cowork** | 官方 | 图形界面 | 非技术人员 | 低 | $20-100/月 |
-| **Open-Claude-Cowork** | 开源 | 图形界面 | 非技术人员 | 低 | $0-15/月 |
+| **OpenWork** | 开源 | 图形界面 | 非技术人员 | 低 | $0-15/月 |
 | **Claude Code CLI** | 官方 | 命令行 | 开发者 | 中 | $20/月 或按量 |
 | **Cursor** | 商业 | IDE 集成 | 开发者 | 中 | $20/月 |
 | **Continue.dev** | 开源 | IDE 集成 | 开发者 | 中 | 免费 |

@@ -41,15 +41,15 @@
 
 ### Step 1: 安装 OpenWork
 
-1. 访问：https://github.com/different-ai/openwork
-2. 下载 macOS 安装包
+1. 访问：https://github.com/different-ai/openwork/releases
+2. 下载最新版 `.dmg` 安装包
 3. 安装并启动应用
 
 ### Step 2: 配置 AI 模型
 
 1. 注册智谱 GLM（推荐）：https://open.bigmodel.cn
 2. 获取 API Key
-3. 在 Open-Cowork 中配置：
+3. 在 OpenWork 中配置：
    - 点击"设置" → "模型配置"
    - 选择"智谱 GLM"
    - 输入 API Key
@@ -67,7 +67,7 @@
 
 ### Step 4: 使用 AI 助手
 
-在 Open-Cowork 中输入以下任务：
+在 OpenWork 中输入以下任务：
 
 ```
 请帮我从 books/the-very-hungry-caterpillar.pdf 生成英语学习课程包：
@@ -370,7 +370,7 @@ AI 会自动完成所有步骤（约 3-5 分钟）：
 ## 🎓 学习路径建议
 
 ### 第 1 周：熟悉工具
-- Day 1-2: 安装 Open-Cowork，配置 API
+- Day 1-2: 安装 OpenWork，配置 API
 - Day 3-4: 处理第一本简单绘本
 - Day 5-7: 尝试不同类型的绘本
 
@@ -452,7 +452,7 @@ AI 会自动完成所有步骤（约 3-5 分钟）：
 ### 中国大陆用户（推荐）
 
 1. **注册智谱 GLM**：https://open.bigmodel.cn
-2. **安装 Open-Cowork**：下载并配置
+2. **安装 OpenWork**：下载并配置
 3. **准备 PDF**：放入工作目录
 4. **输入任务**：使用上方模板
 5. **等待生成**：3-5 分钟
@@ -461,7 +461,7 @@ AI 会自动完成所有步骤（约 3-5 分钟）：
 ### 国际用户
 
 1. **注册 Claude API**：https://console.anthropic.com
-2. **安装 Open-Cowork**：下载并配置
+2. **安装 OpenWork**：下载并配置
 3. **准备 PDF**：放入工作目录
 4. **输入任务**：使用上方模板
 5. **等待生成**：3-5 分钟
@@ -520,7 +520,7 @@ AI 会自动完成所有步骤（约 3-5 分钟）：
 1. 查看本文档的"常见问题"章节
 2. 检查 API Key 是否配置正确
 3. 确认 PDF 文件路径正确
-4. 查看 Open-Cowork 的执行日志
+4. 查看 OpenWork 的执行日志
 
 ### 反馈建议
 

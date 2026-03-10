@@ -43,7 +43,7 @@
 
 **阅读**：[OpenWork 完整教程](AI-Zero-to-Hero/openwork-tutorial.md)
 
-> **什么是 OpenWork？** 一个开源的 AI 协作工具，让你用自然语言指挥 AI 完成工作。
+> **什么是 OpenWork？** Claude Cowork 的开源替代品，帮你运行 AI Agent、Skills 和 MCP。本地优先，数据不上传，支持多种模型。
 > 详见：[OpenWork 官方文档](https://github.com/different-ai/openwork)
 
 **做什么**：
@@ -327,13 +327,20 @@ sparks/
 ### 工具相关
 
 #### OpenWork
-**是什么**：一个图形界面软件，让你用自然语言指挥 AI 工作。
+**是什么**：Claude Cowork 的开源替代品（桌面应用），帮你运行 AI Agent、Skills 和 MCP。
+
+**核心特点**：
+- 本地优先，数据不上传
+- 支持多种 AI 模型（含国内模型）
+- Skills 插件系统，可扩展
+- 支持本地运行和远程连接
+- MIT 开源协议
 
 **能做什么**：
-- 读写文件
-- 处理 PDF
-- 生成文档
-- 批量操作
+- 用自然语言指挥 AI 完成任务
+- 读写文件、处理 PDF、生成文档
+- 批量操作、数据分析
+- 通过 MCP 连接外部工具
 
 **类比**：
 - 传统方式 = 你自己做饭（写代码）
@@ -606,7 +613,7 @@ sparks/
 - 📝 问题：API Key 是什么？（已查术语表，理解了）
 
 ### 2026-03-04
-- ✅ 安装了 Open-Cowork
+- ✅ 安装了 OpenWork
 - ✅ 配置成功，跑通了第一个任务
 - 🎉 成就：让 AI 帮我创建了一个待办清单！
 ```
